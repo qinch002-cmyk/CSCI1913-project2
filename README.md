@@ -1,2 +1,2 @@
-# CSCI1913-project2
-An Java based card game with simple AI player
+# CSCI1913-Project2:
+This is an Java based card game with simple AI player
